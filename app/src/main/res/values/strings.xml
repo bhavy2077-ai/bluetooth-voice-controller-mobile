@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bluetooth Voice Controller</string>
+    <string name="connect_btn">Connect to Laptop</string>
+    <string name="status_connected">✓ Connected</string>
+    <string name="status_disconnected">✗ Disconnected</string>
+</resources>
